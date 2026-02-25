@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Filmora-00C7C7?style=for-the-badge&logo=wondersharefilmora&logoColor=white" alt="Filmora" />
 </p>
 
 ## ✨ Highlights
