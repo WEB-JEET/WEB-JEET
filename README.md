@@ -6,7 +6,7 @@
 ### Frontend Developer & Creator
 
 
-> "Crafting high-performance web experiences with precision and creativity. Obsessed with clean code and minimalist design aesthetics."
+> Crafting high-performance web experiences with precision and creativity. Obsessed with clean code and minimalist design aesthetics.
 
 </div>
 
@@ -20,10 +20,12 @@
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
 </p>
 
 ## ✨ Highlights
 
+- **Antigravity Powered**: Leveraging Google Antigravity for advanced agentic coding.
 - **Minimalist Design**: Focused on typography, spacing, and subtle animations.
 - **High Performance**: Optimized for speed and seamless transitions.
 - **Responsive**: Fully functional experiences across all device sizes.
